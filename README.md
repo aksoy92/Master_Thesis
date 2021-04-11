@@ -17,3 +17,15 @@ First, the model trained on only feature sets of bids that consisted of 2160 fea
 after that the model extended with additional explanatory features. On the other hand,
 we see that the created machine learning models resulted in much fewer errors in mean
 absolute error and root means squared error compared to reference bids.
+
+
+Datafile: 
+(Link > ML_Reference_bids >data>ifnra20172018)
+
+https://drive.google.com/drive/folders/1rW6twG8YL9zeZKDJo3SEiZPIbINkn6uT
+
+
+
+
+
+
